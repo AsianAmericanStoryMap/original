@@ -6,7 +6,7 @@
   <footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
   <div>
     <div class="grid grid-flow-col gap-4">
-      <p>Developer: Tiffany Ahn, Ryan Tran, Tiffany AGAIN</p>
+      <p>Developer: Tiffany Ahn, Ryan Tran</p>
     </div>
     <div>
       <a class="link link-hover" href="https://github.com/orgs/AsianAmericanStoryMap/dashboard">Github</a>
