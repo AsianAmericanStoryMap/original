@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar bg-base-100">
+  <div class="navbar bg-base-200">
   <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
 </div>
   <iframe src="https://www.google.co.uk/maps/d/embed?mid=1qOQE9Y2BGCgIntROnZxCA3x8Bq9-88E&ehbc=2E312F" width="640" height="480"></iframe>
