@@ -1,8 +1,8 @@
 <template>
   <div class="navbar bg-base-200">
-  <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+  <a class="btn btn-ghost normal-case text-xl">Asian American Study</a>
 </div>
-  <iframe src="https://www.google.co.uk/maps/d/embed?mid=1qOQE9Y2BGCgIntROnZxCA3x8Bq9-88E&ehbc=2E312F" width="640" height="480"></iframe>
+  <iframe class = "w-full" src="https://www.google.co.uk/maps/d/embed?mid=1qOQE9Y2BGCgIntROnZxCA3x8Bq9-88E&ehbc=2E312F" width="" height="480"></iframe>
   <footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
   <div>
     <div class="grid grid-flow-col gap-4">
